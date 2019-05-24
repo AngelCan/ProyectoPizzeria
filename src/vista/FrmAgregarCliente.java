@@ -62,7 +62,7 @@ public class FrmAgregarCliente extends javax.swing.JFrame {
 
         lbNombre.setText("Nombre:");
 
-        lbApPaterno.setText("Ap. Materno:");
+        lbApPaterno.setText("Ap. Paterno:");
 
         lbApMaterno.setText("Ap. Materno:");
 
